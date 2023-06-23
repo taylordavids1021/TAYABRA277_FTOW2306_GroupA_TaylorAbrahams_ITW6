@@ -12,8 +12,8 @@ body {
     background-color: rgb(198, 156, 78);
     border-radius: 50%;
     border: solid 1px rgb(198, 156, 78);
-    width: 50px;
-    height: 50px;
+    width: 40px;
+    height: 40px;
 }
 #back-to-top:hover > button {
     border: solid 1px rgb(198, 156, 78);
@@ -71,7 +71,7 @@ button:hover {
 #header-image {
     border-radius: 10%;
     width: 300px;
-    height: 225px;
+    height: 200px;
 }
 
 /* ---- Content ----- */
