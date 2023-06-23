@@ -15,12 +15,12 @@
 }
 
 #header {
-  
+     
 }
 
 /* relatively position header image inside header element using CSS here */
 #header-image {
- 
-  
+    position: relative;
+    top: 10px;
 }
 
