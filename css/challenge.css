@@ -14,13 +14,13 @@
     width: 100%;
 }
 
-#header {
-     
-}
+/*#header {
+  
+}*/
 
 /* relatively position header image inside header element using CSS here */
 #header-image {
     position: relative;
-    top: 10px;
+    top: 20px;
 }
 
